@@ -1,0 +1,6 @@
+Include jumphost/default
+
+Host github.com
+    Hostname github.com
+    IdentityFile ~/.ssh/git_pub_rsa
+    User veenvind
